@@ -1,0 +1,7 @@
+Enhanced LoRaWAN RSSI Indoor Localization Based on BP Neural Network
+
+https://ieeexplore.ieee.org/document/9590790/citations#citations
+
+Kaiyu Lu; Yong Yue; Jieming Ma
+
+DOI: 10.1109/ICISCAE52414.2021.9590790

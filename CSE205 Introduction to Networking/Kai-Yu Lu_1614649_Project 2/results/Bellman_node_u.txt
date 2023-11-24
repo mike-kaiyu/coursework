@@ -1,0 +1,6 @@
+Distance from u to u is 0
+Distance from u to x is 5
+Distance from u to w is 3
+Distance from u to v is 6
+Distance from u to z is 12
+Distance from u to y is 10

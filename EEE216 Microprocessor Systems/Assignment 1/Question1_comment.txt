@@ -1,0 +1,11 @@
+Assignment1: The value 1 in decimal should be initialied in both 0x2a and 0x2b. 
+	      TheThe value 16 in decimal should be initialied in both 0x2b.
+0	002A	load the value 1 from 0x2a
+1	202D	add the value in 0x2d with the value in 0x2a
+2	102D	store the added value in 0x2d
+3	002B	load the value 1 from 0x2b
+4	202A	add the value in 0x2b with the value in 0x2a
+5	102A	store the added value in 0x2a
+6	302C	subtract the added value with the current value 16 in 0x2c
+7	6000	if the subtracted value is not equal to 0, then it will jump to the instruction 0x00
+8	7000	program finished

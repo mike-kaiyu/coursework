@@ -1,0 +1,15 @@
+Node u
+x	5
+w	3
+v	7
+Node x
+z	9
+y	7
+w	4
+Node w
+y	8
+v	3
+Node v
+y	4
+Node y
+z	2

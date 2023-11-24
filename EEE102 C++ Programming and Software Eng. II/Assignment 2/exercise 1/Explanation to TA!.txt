@@ -1,0 +1,5 @@
+I can run the program in my original project. However, when I upload it to ICE and download again, I create a
+newproject and put it into a new project, it goes wrong. Therefore, I put everything for exercise 1 in this file.
+The code has no problem, it can run without any errors.
+
+#!! You can paste the codes of exercise.cpp on a new ConsoleApplication.

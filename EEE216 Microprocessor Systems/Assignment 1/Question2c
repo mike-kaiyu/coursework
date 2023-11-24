@@ -1,0 +1,8 @@
+START		MOV		r0, #0x02	;Move the number 0x02 into the register r0
+			MOV		r1, #0x02	;Move the number 0x02 into the register r1
+			SUBS		r2,r0,r1	;Subtract the values in r0 and r1 and store the subtracted result to the register r2
+			BEQ		saveNumber ;If the subtracted result is equal to 0, then jump to the label 'saveNumber'
+			END		;Program finished
+			
+saveNumber	MOV		r3, #0x10c	;Move the number 0x10c into the register r3
+			STR		r0, [r3] ; Now [r3] is an address which is #0x10c. Then the same number will be stored in the memory address is 0x10c.

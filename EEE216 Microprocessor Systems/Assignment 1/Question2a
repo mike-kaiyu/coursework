@@ -1,0 +1,4 @@
+START	mov		r0,#0xb3	;move the hexadecimal number 0xb3 into r0
+		mov		r1,#0xc3	;move the hexadecimal number 0xc3 into r1
+		add		r2,r1,r0	;add the values in r1 and r0 and store the added result in r2
+		END		;program finished
